@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: CO
 available: false
-classes: 32
+classes: 544
 colour: 1
 id: 2
 label: NEWC
-longName: 'new cargo #2'
-name: 'New Cargo #2'
+longName: cocaine
+name: Cocaine
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 616809
 sprite:
-  filename: cargoes/new-cargo-2.png
+  filename: cargoes/cocaine.png
   left: 0
   top: 0
-unitName: Items
+unitName: Crates
 weight: 16
