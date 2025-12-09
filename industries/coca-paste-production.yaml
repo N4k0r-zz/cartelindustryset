@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- COCA
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 125
+id: 0
+layout:
+- - - -1
+name: Coca Paste Production
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
